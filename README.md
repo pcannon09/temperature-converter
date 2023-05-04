@@ -3,7 +3,7 @@ Get temperature of celsius, fahrenheit, kelvin, rankine, delise and reaumur
 
 Do command 'make' to compile it
 
-The syntax is very readable, here is some examples:
+The syntax is very readable, here are all the possible combinations:
 
 ```cpp
 #include <iostream> // IO
@@ -50,4 +50,6 @@ std::cout<<"Réaumur (45ºC): "<<tempConverter::delisleToReaumur(45)<<"\n";
 
 Basicly you can do:
 
+```cpp
 tempConverter::somethingToSomething(temperature);
+```
