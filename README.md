@@ -6,6 +6,9 @@ Do command 'make' to compile it
 The syntax is very readable, here is some examples:
 
 ```cpp
+#include <iostream> // IO
+#include "path/to/dir/tempConverter.hpp"
+
 std::cout<<"Celsius to...\n";
 
 std::cout<<"Fahrenheit (14ºC): "<<tempConverter::celsiusToFahrenheit(14)<<"\n";
