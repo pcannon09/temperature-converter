@@ -1,4 +1,4 @@
-# temperature-converter
+# Temperature converter
 Get temperature of celsius, fahrenheit, kelvin, rankine, delise and reaumur
 
 Do command 'make' to compile it
