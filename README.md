@@ -7,7 +7,7 @@ The syntax is very readable, here are all the possible combinations:
 
 ```cpp
 #include <iostream> // IO
-#include "path/to/dir/tempConverter.hpp"
+#include "path/to/dir/tempConverter.hpp" // Temperature converter lib
 
 std::cout<<"Celsius to...\n";
 
