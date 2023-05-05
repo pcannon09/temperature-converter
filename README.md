@@ -1,6 +1,10 @@
 # Temperature converter
 Get temperature of celsius, fahrenheit, kelvin, rankine, delise and reaumur
 
+---
+
+This project is now part from Eduli (https://github.com/EduliSoftware)
+
 Do command 'make' to compile it
 
 The syntax is very readable, here are all the possible combinations:
